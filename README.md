@@ -9,6 +9,7 @@ A Jupyter-notebook with the Julia code is provided. You can use that for the com
 It is very easy to install and run Julia. Please follow the instructions on the official Julia [page for installation](https://julialang.org/downloads/).  I would recommend you to use Linux - a Linux distro like Ubuntu or WLS within Windows.
 
 Here, I provide the essential steps on Linux. The easiest way to install and update Julia on Linux is though `juliaup`. Install it using the following command on the terminal: 
+
 `curl -fsSL https://install.julialang.org | sh`
 
 Upon installation check the status:
